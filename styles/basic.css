@@ -24,3 +24,12 @@ a {
     max-width: 970px;
     padding: 0 10px;
 }
+
+.divider {
+    height: 1px;
+    max-width: 420px;
+    width: 100%;
+    background-color: var(--black-main-color);
+    border: none;
+    margin: 0 auto;
+}
